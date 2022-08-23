@@ -1,0 +1,13 @@
+.wrapper {
+  display: block;
+  position: absolute;
+  top: 0;
+  margin: 7vh 10vw;
+  width: 80%;
+  height: 85vh;
+  background: rgba(8, 0, 0, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+  backdrop-filter: blur(2.5px);
+  -webkit-backdrop-filter: blur(2.5px);
+  border-radius: 30px;
+}

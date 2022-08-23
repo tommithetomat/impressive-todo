@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Drafting';
+  src: url('./fonts/DraftingMono-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Drafting Bold';
+  src: url('./fonts/DraftingMono-Bold.ttf');
+}
+
+body {
+  /* background: center / cover no-repeat url(img/background.jpg) ; */
+  width: 100%;
+  height: 80%;
+  margin: 0;
+  font-family: 'Drafting'
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
